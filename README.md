@@ -130,7 +130,7 @@ More projects will be added as I continue learning and building.
 
 **Live Website**
 
-https://your-portfolio.vercel.app
+(https://portfolio-pi-lyart-do7q736gm9.vercel.app/)
 
 ---
 
