@@ -1,89 +1,167 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">B.Tech Computer Science Engineering (Artificial Intelligence) Student</h3>
+<h1 align="center">Hi 👋, I'm Kishore R</h1>
+
+<h3 align="center">
+Computer Science Engineering (Artificial Intelligence) Student
+</h3>
 
 <p align="center">
 Passionate about Software Engineering, Modern Web Development, and Artificial Intelligence.<br>
-I enjoy building clean, responsive, and user-focused applications while continuously learning new technologies.
+Building scalable web applications, solving real-world problems, and continuously expanding my technical skills.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Artificial Intelligence) Student
-- 💻 Building modern web applications with **React, JavaScript, HTML & CSS**
-- 🐍 Exploring **Python, Artificial Intelligence & Machine Learning**
-- 🌱 Currently learning **Data Structures & Algorithms** and **Full-Stack Development**
-- 🚀 Passionate about creating efficient, scalable, and meaningful software
-- 🤝 Open to collaborating on Web Development and Open Source Projects
-- 📚 Always learning, always improving
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence) Student
+
+💻 Passionate about building modern, responsive, and user-friendly web applications.
+
+🚀 My interests include:
+
+- Software Engineering
+- Frontend Development
+- Artificial Intelligence
+- Full Stack Development
+- Open Source
+
+🌱 Currently Learning
+
+- React.js
+- JavaScript (ES6+)
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+
+🎯 Career Goal
+
+To become a Software Engineer who builds impactful products, writes clean and maintainable code, and continuously learns emerging technologies.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Current Focus
+
+✔️ Building Real-World React Projects
+
+✔️ Improving Problem Solving Skills
+
+✔️ Learning Artificial Intelligence
+
+✔️ Exploring Full Stack Development
+
+✔️ Contributing to Open Source
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
-### Tools & Platforms
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+# 📌 Featured Projects
+
+### 🌦️ Weather Dashboard
+Responsive weather application using React and Weather API.
+
+### 🛒 QuickCart
+Shopping cart application built with React.
+
+### 🤖 AI Chat Assistant
+Python-based AI chatbot.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+### ✅ Task Manager
+Modern task management application.
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- React Ecosystem
+- REST APIs
+- Artificial Intelligence
+- Machine Learning Basics
+- Data Structures & Algorithms
+- Clean Code Principles
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+
+<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="r.krish5440@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</p>
+
+---
+
+# 💭 Developer Philosophy
+
+> **"I believe every project is an opportunity to learn something new, improve my skills, and create software that makes a difference."**
+
+---
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 <h3 align="center">
-💡 "Code with purpose. Learn with curiosity. Build with passion."
+✨ Thanks for visiting my profile! ✨
 </h3>
-<!--
-**kishorers138-cyber/kishorers138-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building • Learning • Improving • Growing 🚀
+</p>
