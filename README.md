@@ -1,59 +1,43 @@
-[<h1 align="center">Hi 👋, I'm Kishore R</h1>
+<h1 align="center">Hi 👋, I'm Kishore R</h1>
 
 <h3 align="center">
 Computer Science Engineering (Artificial Intelligence) Student
 </h3>
 
 <p align="center">
-Passionate about Software Engineering, Modern Web Development, and Artificial Intelligence.<br>
-Building scalable web applications, solving real-world problems, and continuously expanding my technical skills.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+Passionate about Software Engineering, Modern Web Development, and Artificial Intelligence.
+<br/>
+I enjoy building real-world applications, solving problems through code, and continuously learning new technologies.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence) Student
+🎓 I'm currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence)**.
 
-💻 Passionate about building modern, responsive, and user-friendly web applications.
+💡 I enjoy turning ideas into practical software solutions through clean, efficient, and user-friendly code.
 
 🚀 My interests include:
 
-- Software Engineering
-- Frontend Development
-- Artificial Intelligence
-- Full Stack Development
-- Open Source
-
-🌱 Currently Learning
-
-- React.js
-- JavaScript (ES6+)
-- Python
-- Data Structures & Algorithms
-- Git & GitHub
-
-🎯 Career Goal
-
-To become a Software Engineer who builds impactful products, writes clean and maintainable code, and continuously learns emerging technologies.
+- 💻 Software Engineering
+- 🌐 Frontend Web Development
+- 🤖 Artificial Intelligence
+- ⚡ JavaScript & React
+- 🐍 Python
+- 📖 Data Structures & Algorithms
+- 🌱 Open Source
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently Learning
 
-✔️ Building Real-World React Projects
-
-✔️ Improving Problem Solving Skills
-
-✔️ Learning Artificial Intelligence
-
-✔️ Exploring Full Stack Development
-
-✔️ Contributing to Open Source
+- ⚛️ React.js
+- 💻 JavaScript (ES6+)
+- 🐍 Python
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence
+- 📚 Data Structures & Algorithms
 
 ---
 
@@ -62,71 +46,70 @@ To become a Software Engineer who builds impactful products, writes clean and ma
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 📂 Projects
 
-### 🌦️ Weather Dashboard
-Responsive weather application using React and Weather API.
+🚀 Weather Dashboard
 
-### 🛒 QuickCart
-Shopping cart application built with React.
+🛒 QuickCart
 
-### 🤖 AI Chat Assistant
-Python-based AI chatbot.
+🤖 AI Chat Assistant
 
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
+🌐 Personal Portfolio
 
-### ✅ Task Manager
-Modern task management application.
+📋 Task Manager
+
+> More exciting projects are coming soon...
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishorers138-cyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishorers138-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=kishorers138-cyber&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Goals for 2026
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+✅ Build 20+ Real-World Projects
 
----
+✅ Master React.js
 
-# 📚 Currently Learning
+✅ Learn Full Stack Development
 
-- React Ecosystem
-- REST APIs
-- Artificial Intelligence
-- Machine Learning Basics
-- Data Structures & Algorithms
-- Clean Code Principles
+✅ Strengthen Data Structures & Algorithms
+
+✅ Explore Artificial Intelligence
+
+✅ Contribute to Open Source
 
 ---
 
@@ -135,34 +118,23 @@ Modern task management application.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="r.krish5440@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:r.krish5440@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-# 💭 Developer Philosophy
+# 💭 Quote
 
-> **"I believe every project is an opportunity to learn something new, improve my skills, and create software that makes a difference."**
+> **"Learning never stops. Every commit is a step toward becoming a better developer."**
 
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+⭐ Thank you for visiting my GitHub profile! ⭐
 </p>
-
----
-
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
-
-<p align="center">
-Building • Learning • Improving • Growing 🚀
-</p>
-](https://www.linkedin.com/in/kishore-r-6bb4a6383/)
