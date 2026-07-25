@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore R</h1>
+<h1 align="center">Hi, I'm Kishore R</h1>
 
 <h3 align="center">
 Computer Science Engineering (Artificial Intelligence) Student
@@ -7,37 +7,54 @@ Computer Science Engineering (Artificial Intelligence) Student
 <p align="center">
 Passionate about Software Engineering, Modern Web Development, and Artificial Intelligence.
 <br/>
-I enjoy building real-world applications, solving problems through code, and continuously learning new technologies.
+I enjoy building scalable web applications, solving real-world problems through code, and continuously expanding my technical knowledge.
+</p>
+
+<p align="center">
+<a href="https://your-portfolio.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:r.krish5440@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 I'm currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence)**.
+🎓 B.Tech Computer Science Engineering (Artificial Intelligence) Student
 
-💡 I enjoy turning ideas into practical software solutions through clean, efficient, and user-friendly code.
+💡 Passionate about building modern, responsive, and user-focused web applications.
 
-🚀 My interests include:
+🚀 Interested in:
 
-- 💻 Software Engineering
-- 🌐 Frontend Web Development
-- 🤖 Artificial Intelligence
-- ⚡ JavaScript & React
-- 🐍 Python
-- 📖 Data Structures & Algorithms
-- 🌱 Open Source
+- Software Engineering
+- Frontend Development
+- Artificial Intelligence
+- React.js
+- JavaScript
+- Python
+- Data Structures & Algorithms
+- Open Source
+
+🌐 **Portfolio:** https://your-portfolio.vercel.app
 
 ---
 
 # 🚀 Currently Learning
 
-- ⚛️ React.js
-- 💻 JavaScript (ES6+)
-- 🐍 Python
-- 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence
-- 📚 Data Structures & Algorithms
+- React.js
+- JavaScript (ES6+)
+- Python
+- Full Stack Web Development
+- Artificial Intelligence
+- Data Structures & Algorithms
 
 ---
 
@@ -46,36 +63,32 @@ I enjoy building real-world applications, solving problems through code, and con
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 </p>
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-🚀 Weather Dashboard
+- 🌦️ Weather Dashboard
+- 🛒 QuickCart
+- 🤖 AI Chat Assistant
+- 🌐 Personal Portfolio Website
+- ✅ Task Manager
 
-🛒 QuickCart
-
-🤖 AI Chat Assistant
-
-🌐 Personal Portfolio
-
-📋 Task Manager
-
-> More exciting projects are coming soon...
+> More projects will be added as I continue learning and building.
 
 ---
 
@@ -99,17 +112,12 @@ I enjoy building real-world applications, solving problems through code, and con
 
 # 🎯 Goals for 2026
 
-✅ Build 20+ Real-World Projects
-
-✅ Master React.js
-
-✅ Learn Full Stack Development
-
-✅ Strengthen Data Structures & Algorithms
-
-✅ Explore Artificial Intelligence
-
-✅ Contribute to Open Source
+- Build 20+ Real-World Projects
+- Master React.js
+- Learn Full Stack Development
+- Strengthen Data Structures & Algorithms
+- Explore Artificial Intelligence
+- Contribute to Open Source
 
 ---
 
@@ -117,12 +125,20 @@ I enjoy building real-world applications, solving problems through code, and con
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/">
+<a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:r.krish5440@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/kishorers138-cyber" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </p>
@@ -131,10 +147,12 @@ I enjoy building real-world applications, solving problems through code, and con
 
 # 💭 Quote
 
-> **"Learning never stops. Every commit is a step toward becoming a better developer."**
+> *"Every project is an opportunity to learn, improve, and build something meaningful."*
 
 ---
 
 <p align="center">
-⭐ Thank you for visiting my GitHub profile! ⭐
+Thanks for visiting my profile.
+<br/>
+Feel free to explore my repositories and connect with me.
 </p>
