@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kishore R</h1>
+[<h1 align="center">Hi 👋, I'm Kishore R</h1>
 
 <h3 align="center">
 Computer Science Engineering (Artificial Intelligence) Student
@@ -165,3 +165,4 @@ Modern task management application.
 <p align="center">
 Building • Learning • Improving • Growing 🚀
 </p>
+](https://www.linkedin.com/in/kishore-r-6bb4a6383/)
