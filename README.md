@@ -5,34 +5,41 @@ Computer Science Engineering (Artificial Intelligence) Student
 </h3>
 
 <p align="center">
-Passionate about Software Engineering, Modern Web Development, and Artificial Intelligence.
+Passionate about Software Engineering, Frontend Development, and Artificial Intelligence.
 <br/>
 I enjoy building scalable web applications, solving real-world problems through code, and continuously expanding my technical knowledge.
 </p>
 
 <p align="center">
+
 <a href="https://your-portfolio.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kishore_R-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kishorers138-cyber" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-kishorers138--cyber-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kishore_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:r.krish5440@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🎓 B.Tech Computer Science Engineering (Artificial Intelligence) Student
+- B.Tech Computer Science Engineering (Artificial Intelligence) Student
+- Passionate about Software Engineering, Frontend Development, and Artificial Intelligence
+- Focused on building responsive, user-centric web applications
+- Continuously learning modern technologies and development best practices
 
-💡 Passionate about building modern, responsive, and user-focused web applications.
-
-🚀 Interested in:
+### Interests
 
 - Software Engineering
 - Frontend Development
@@ -43,11 +50,9 @@ I enjoy building scalable web applications, solving real-world problems through 
 - Data Structures & Algorithms
 - Open Source
 
-🌐 **Portfolio:** https://your-portfolio.vercel.app
-
 ---
 
-# 🚀 Currently Learning
+# Currently Learning
 
 - React.js
 - JavaScript (ES6+)
@@ -58,41 +63,41 @@ I enjoy building scalable web applications, solving real-world problems through 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma"/>
 </p>
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
-- 🌦️ Weather Dashboard
-- 🛒 QuickCart
-- 🤖 AI Chat Assistant
-- 🌐 Personal Portfolio Website
-- ✅ Task Manager
+- Personal Portfolio
+- Weather Dashboard
+- QuickCart
+- AI Chat Assistant
+- Task Manager
 
-> More projects will be added as I continue learning and building.
+More projects will be added as I continue learning and building.
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -110,10 +115,10 @@ I enjoy building scalable web applications, solving real-world problems through 
 
 ---
 
-# 🎯 Goals for 2026
+# Goals
 
-- Build 20+ Real-World Projects
-- Master React.js
+- Build high-quality real-world projects
+- Master React and modern frontend development
 - Learn Full Stack Development
 - Strengthen Data Structures & Algorithms
 - Explore Artificial Intelligence
@@ -121,38 +126,44 @@ I enjoy building scalable web applications, solving real-world problems through 
 
 ---
 
-# 🌐 Connect With Me
+# Portfolio
 
-<p align="left">
+**Live Website**
 
-<a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vercel" />
+https://your-portfolio.vercel.app
+
+---
+
+# Connect With Me
+
+<p>
+
+<a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://github.com/kishorers138-cyber">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:r.krish5440@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/kishorers138-cyber" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
-
 > *"Every project is an opportunity to learn, improve, and build something meaningful."*
 
 ---
 
 <p align="center">
-Thanks for visiting my profile.
-<br/>
+Thank you for visiting my GitHub profile.
+<br>
 Feel free to explore my repositories and connect with me.
 </p>
