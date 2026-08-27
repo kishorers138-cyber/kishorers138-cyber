@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img src="./assets/cyberpunk-header.png" width="100%" alt="Kishore R Cyberpunk Header"/>
+# `KISHORE_R.EXE`
 
-<br><br>
+### `AI STUDENT • DEVELOPER • BUILDER`
 
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=800&lines=KISHORE_R.EXE+%7C+SYSTEM+ONLINE;AI+STUDENT+%7C+DEVELOPER+%7C+BUILDER;REACT+%7C+JAVASCRIPT+%7C+PYTHON;SOFTWARE+ENGINEERING+ENTHUSIAST;BUILDING+REAL-WORLD+PROJECTS;CODE+%E2%80%A2+LEARN+%E2%80%A2+BUILD+%E2%80%A2+INNOVATE" alt="Typing Animation"/>
+<p>
+Building modern web applications and exploring Artificial Intelligence.
+</p>
 
-<br><br>
-
-<!-- SOCIAL BUTTONS -->
+<br>
 
 <a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
@@ -27,6 +25,10 @@
 <a href="mailto:r.krish5440@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+ONLINE;%3E+BUILDING+REAL-WORLD+PROJECTS;%3E+REACT+%7C+JAVASCRIPT+%7C+PYTHON;%3E+EXPLORING+ARTIFICIAL+INTELLIGENCE;%3E+LEARN+%7C+BUILD+%7C+IMPROVE+%7C+REPEAT"/>
 
 <br><br>
 
@@ -59,37 +61,49 @@
 
 Hi, I'm **Kishore R**, a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence**.
 
-I'm passionate about **Software Engineering, Frontend Development, and Artificial Intelligence**. I enjoy turning ideas into useful web applications, solving programming problems, and continuously improving my development skills.
+I'm passionate about **Software Engineering, Frontend Development, and Artificial Intelligence**.
+
+I enjoy turning ideas into useful applications, solving programming problems, and continuously improving my development skills.
+
+### `CURRENT_PROFILE`
 
 ```text
-[✓] Computer Science Engineering
-[✓] Artificial Intelligence
-[✓] Frontend Development
-[✓] React.js
-[✓] JavaScript
-[✓] Python
-[✓] Data Structures & Algorithms
-[✓] Responsive Web Development
-[→] Full Stack Development
-[→] AI Projects
+NAME           : Kishore R
+ROLE           : AI Student / Developer
+EDUCATION      : B.Tech CSE - Artificial Intelligence
+
+PRIMARY FOCUS  : Software Engineering
+                 Frontend Development
+                 Artificial Intelligence
+
+CURRENT STACK  : React
+                 JavaScript
+                 Python
+                 HTML
+                 CSS
+
+INTERESTS      : Web Development
+                 AI
+                 DSA
+                 Open Source
 ```
 
 ---
 
-# `> FOCUS.AREA`
+# `> WHAT_I_DO`
 
 <div align="center">
 
 | Area | Focus |
 |---|---|
-| 💻 Software Engineering | Building maintainable applications |
+| 💻 Software Engineering | Building useful and maintainable applications |
 | 🌐 Frontend Development | Responsive and user-focused interfaces |
-| ⚛️ React | Modern component-based applications |
-| 🟨 JavaScript | ES6+ and web development |
+| ⚛️ React.js | Component-based web applications |
+| 🟨 JavaScript | Modern ES6+ development |
 | 🐍 Python | Programming and problem solving |
-| 🤖 Artificial Intelligence | Exploring AI applications |
+| 🤖 Artificial Intelligence | Exploring practical AI applications |
 | 🧩 DSA | Algorithms and problem solving |
-| 🚀 Full Stack | Learning backend development |
+| 🚀 Full Stack | Expanding into backend development |
 
 </div>
 
@@ -101,7 +115,7 @@ I'm passionate about **Software Engineering, Frontend Development, and Artificia
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python"/>
 
 </p>
 
@@ -109,7 +123,7 @@ I'm passionate about **Software Engineering, Frontend Development, and Artificia
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 
 </p>
 
@@ -117,7 +131,7 @@ I'm passionate about **Software Engineering, Frontend Development, and Artificia
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma,vercel"/>
 
 </p>
 
@@ -137,131 +151,141 @@ I'm passionate about **Software Engineering, Frontend Development, and Artificia
 
 <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00FFFF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DATA%20STRUCTURES-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-00FF41?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# `> FEATURED_PROJECTS`
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **AI Chat Assistant** | AI-powered conversational application | React • JavaScript • AI |
-| 🛒 **QuickCart** | Modern e-commerce frontend | JavaScript • HTML • CSS |
-| 🌦️ **Weather Dashboard** | Weather application using API data | JavaScript • API • CSS |
-| ✅ **Task Manager** | Application for managing daily tasks | React • JavaScript |
-| 🌐 **Personal Portfolio** | Developer portfolio website | React • Vite • CSS |
-
-</div>
-
----
+# `> PROJECTS`
 
 ## 🤖 AI Chat Assistant
 
-> A modern AI-powered conversational interface.
-
-### Features
-
 ```text
-✓ Chat interface
-✓ AI responses
-✓ Responsive UI
-✓ Loading states
-✓ Error handling
-✓ Conversation management
-→ Persistent conversations
-→ AI-powered tools
+TYPE       : Artificial Intelligence
+FOCUS      : Conversational Interface
+STATUS     : BUILDING
 ```
+
+A modern conversational AI interface focused on creating a clean and responsive chat experience.
 
 **Technology**
 
 `React` `JavaScript` `AI` `CSS`
 
+**Planned Improvements**
+
+```text
+[✓] Chat interface
+[✓] Responsive design
+[→] Conversation history
+[→] Persistent chats
+[→] Better error handling
+[→] AI-powered tools
+```
+
 ---
 
 ## 🛒 QuickCart
 
-> A modern e-commerce frontend for browsing products and managing a shopping cart.
-
-### Features
-
 ```text
-✓ Product listing
-✓ Product cards
-✓ Shopping cart
-✓ Responsive design
-→ Search
-→ Category filtering
-→ Quantity controls
-→ Local storage
+TYPE       : Web Application
+FOCUS      : E-Commerce
+STATUS     : BUILDING
 ```
+
+A modern shopping interface focused on product browsing and cart interactions.
 
 **Technology**
 
 `JavaScript` `HTML` `CSS`
 
+**Planned Improvements**
+
+```text
+[✓] Product listing
+[✓] Product cards
+[✓] Shopping cart
+[✓] Responsive UI
+[→] Search
+[→] Filtering
+[→] Quantity controls
+[→] Local storage
+```
+
 ---
 
 ## 🌦️ Weather Dashboard
 
-> A responsive weather application for searching and displaying weather information.
-
-### Features
-
 ```text
-✓ City search
-✓ Weather information
-✓ API integration
-✓ Responsive interface
-→ Loading states
-→ Error handling
-→ Extended weather information
+TYPE       : Web Application
+FOCUS      : API Integration
+STATUS     : BUILDING
 ```
+
+A responsive weather application for searching and displaying weather information.
 
 **Technology**
 
 `JavaScript` `API` `HTML` `CSS`
 
+**Planned Improvements**
+
+```text
+[✓] City search
+[✓] Weather information
+[✓] API integration
+[✓] Responsive interface
+[→] Loading states
+[→] Error handling
+[→] Extended weather information
+```
+
 ---
 
 ## ✅ Task Manager
 
-> A productivity application for organizing and managing tasks.
-
-### Features
-
 ```text
-✓ Add tasks
-✓ Update tasks
-✓ Delete tasks
-✓ Task organization
-→ Filtering
-→ Persistent storage
-→ Improved UX
+TYPE       : Productivity Application
+FOCUS      : Task Management
+STATUS     : BUILDING
 ```
+
+A productivity application for organizing and managing tasks.
 
 **Technology**
 
 `React` `JavaScript` `CSS`
 
+**Planned Improvements**
+
+```text
+[✓] Add tasks
+[✓] Update tasks
+[✓] Delete tasks
+[→] Filtering
+[→] Persistent storage
+[→] Better user experience
+```
+
 ---
 
 ## 🌐 Personal Portfolio
 
-> My personal developer portfolio showcasing my skills, projects, and development journey.
+```text
+TYPE       : Developer Portfolio
+FOCUS      : Personal Branding
+STACK      : React + Vite + CSS
+STATUS     : LIVE
+```
 
-**Technology**
-
-`React` `Vite` `CSS`
+My personal portfolio showcasing my skills, projects, and development journey.
 
 <br>
 
 <a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/">
 
-<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
 
 </a>
 
@@ -318,13 +342,20 @@ alt="GitHub Contribution Snake"/>
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
 ║  [→] Build high-quality real-world projects                ║
+║                                                            ║
 ║  [→] Master React and modern frontend development          ║
+║                                                            ║
 ║  [→] Learn Full Stack Development                          ║
+║                                                            ║
 ║  [→] Strengthen Data Structures & Algorithms               ║
+║                                                            ║
 ║  [→] Explore Artificial Intelligence                       ║
+║                                                            ║
 ║  [→] Improve Python programming                             ║
+║                                                            ║
 ║  [→] Contribute to Open Source                             ║
-║  [→] Build stronger portfolio projects                     ║
+║                                                            ║
+║  [→] Build a strong developer portfolio                    ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -336,29 +367,29 @@ alt="GitHub Contribution Snake"/>
 <div align="center">
 
 ```text
-              ┌────────────┐
-              │    LEARN   │
-              └─────┬──────┘
-                    ↓
-              ┌────────────┐
-              │    BUILD   │
-              └─────┬──────┘
-                    ↓
-              ┌────────────┐
-              │    TEST    │
-              └─────┬──────┘
-                    ↓
-              ┌────────────┐
-              │    FIX     │
-              └─────┬──────┘
-                    ↓
-              ┌────────────┐
-              │  IMPROVE   │
-              └─────┬──────┘
-                    ↓
-              ┌────────────┐
-              │   REPEAT   │
-              └────────────┘
+                 ┌─────────────┐
+                 │    LEARN    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    BUILD    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    TEST     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │     FIX     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   IMPROVE   │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   REPEAT    │
+                 └─────────────┘
 ```
 
 ### `CODE • LEARN • BUILD • INNOVATE`
@@ -373,6 +404,9 @@ alt="GitHub Contribution Snake"/>
 kishore@developer:~$ whoami
 
 Kishore R
+
+kishore@developer:~$ role
+
 AI Student & Developer
 
 kishore@developer:~$ specialization
@@ -381,13 +415,23 @@ Software Engineering
 Frontend Development
 Artificial Intelligence
 
-kishore@developer:~$ current_mode
+kishore@developer:~$ primary_stack
+
+React
+JavaScript
+Python
+HTML
+CSS
+
+kishore@developer:~$ current_status
 
 BUILDING...
 
 kishore@developer:~$ mission
 
-Build the future, one project at a time.
+Build useful software.
+Learn continuously.
+Keep improving.
 
 kishore@developer:~$ status
 
@@ -401,19 +445,27 @@ SYSTEM ONLINE ████████████████████ 100%
 <div align="center">
 
 <a href="https://portfolio-pi-lyart-do7q736gm9.vercel.app/">
+
 <img src="https://img.shields.io/badge/PORTFOLIO-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/>
+
 </a>
 
 <a href="https://github.com/kishorers138-cyber">
+
 <img src="https://img.shields.io/badge/GITHUB-00FFFF?style=for-the-badge&logo=github&logoColor=black"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/kishore-r-6bb4a6383/">
+
 <img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+
 </a>
 
 <a href="mailto:r.krish5440@gmail.com">
+
 <img src="https://img.shields.io/badge/EMAIL-00FFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+
 </a>
 
 </div>
@@ -425,21 +477,22 @@ SYSTEM ONLINE ████████████████████ 100%
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║                 SYSTEM MESSAGE                            ║
+║                    SYSTEM MESSAGE                         ║
 ║                                                            ║
-║        KEEP LEARNING. KEEP BUILDING. KEEP GROWING.        ║
+║             KEEP LEARNING. KEEP BUILDING.                 ║
 ║                                                            ║
-║                    KISHORE_R.EXE                           ║
+║                     KISHORE_R.EXE                          ║
 ║                                                            ║
-║                   STATUS: ONLINE                           ║
+║                    STATUS: ONLINE                          ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00ffff,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:00ffff,100:000000&height=110&section=footer"/>
+
+<br>
 
 ### `THANK YOU FOR VISITING`
 
